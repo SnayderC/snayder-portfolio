@@ -35,7 +35,8 @@ export const projects: Project[] = [
     problem: '', solution: '',
     responsibilities: ['Participación en el desarrollo e integración de funcionalidades.', 'Trabajo colaborativo mediante ramas de Git.', 'Construcción de componentes de planificación de rutinas y uso de inteligencia artificial.'],
     features: [], decisions: [], challenges: [], learnings: [], improvements: [],
-    repositoryUrl: 'https://github.com/SnayderC/AI-Routine-Planner', screenshots: [],
+    repositoryUrl: 'https://github.com/SnayderC/AI-Routine-Planner',
+    screenshots: [{ src: '/images/projects/ai-routine-planner/dashboard.jpeg', alt: 'Dashboard de AI Routine Planner con tareas, calendario, temporizador Pomodoro y análisis de productividad', width: 671, height: 656 }],
   },
 ]
 
